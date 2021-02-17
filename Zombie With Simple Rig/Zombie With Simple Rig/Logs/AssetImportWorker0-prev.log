@@ -1,0 +1,131 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.0f1 (3721df5a8b28) revision 3613151'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 8143 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\2020.2.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/IMWYS/Zombie With Simple Rig/Zombie With Simple Rig
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64761
+Successfully changed project path to: D:/IMWYS/Zombie With Simple Rig/Zombie With Simple Rig
+D:/IMWYS/Zombie With Simple Rig/Zombie With Simple Rig
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 49.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0f1 (3721df5a8b28)
+[Subsystems] Discovering subsystems at path C:/Program Files/2020.2.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/IMWYS/Zombie With Simple Rig/Zombie With Simple Rig/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   
+    VRAM:     4053 MB
+    Driver:   27.21.14.6089
+Initialize mono
+Mono path[0] = 'C:/Program Files/2020.2.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/2020.2.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/2020.2.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56636
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/2020.2.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004761 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.203 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000843 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.529 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.9 MB.
+System memory in use after: 56.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1533.
+Total: 2.298000 ms (FindLiveObjects: 0.217500 ms CreateObjectMapping: 0.033600 ms MarkObjects: 1.961900 ms  DeleteObjects: 0.083200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/FBX
+  artifactKey: Guid(f3ce1bf0ae4cfc94caddcbfb9ecdc246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX using Guid(f3ce1bf0ae4cfc94caddcbfb9ecdc246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f600b1ee938c3559fa24a03d117a2738') in 0.012028 seconds
+  Import took 0.044908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.358482 seconds.
+  path: Assets/FBX/Zombie.fbx
+  artifactKey: Guid(f3a1aab44cbcc1447b67e1ef9ec3f9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Zombie.fbx using Guid(f3a1aab44cbcc1447b67e1ef9ec3f9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e015aaa4f163bbc483a228d13a4898c') in 0.977234 seconds
+  Import took 0.998941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 192.869613 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b41cfa13f056e58f64cf5f3363de7353') in 0.005971 seconds
+  Import took 0.042380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.525450 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(1611083cee03ac24691b92fb44f134d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(1611083cee03ac24691b92fb44f134d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd297eddbc4bc267fa8d228142fdb93f1') in 0.005283 seconds
+  Import took 0.033320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.953041 seconds.
+  path: Assets/Materials/Zombie.mat
+  artifactKey: Guid(434afd5c5be4d4a4d81a05938286afbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Zombie.mat using Guid(434afd5c5be4d4a4d81a05938286afbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2facbd85906fbf5a359fc9b94dd4fb4') in 0.036055 seconds
+  Import took 0.047956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.492952 seconds.
+  path: Assets/Textures/zombie_diffuse.png
+  artifactKey: Guid(e26ccff4d50dff645947072ceee3079f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/zombie_diffuse.png using Guid(e26ccff4d50dff645947072ceee3079f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e97a25547d1df453a917171749ca7bd9') in 0.052743 seconds
+  Import took 0.097486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.147811 seconds.
+  path: Assets/FBX/Animations
+  artifactKey: Guid(9a3155f1fbbbf0542ac949eb323899aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Animations using Guid(9a3155f1fbbbf0542ac949eb323899aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '752c89441153aa26f84b798bc5bb709d') in 0.007635 seconds
+  Import took 0.034248 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
